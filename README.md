@@ -9,7 +9,7 @@ Use only for very large files because creating and managing threads is also an o
 
 
 
-Acknowledgements
+Acknowledgements :
 Professor Khushil Saini, for the project idea and concepts about multithreading.
 Stackoverflow community(http://stackoverflow.com).
 The very helpful documentation of HTTP RFC 2616(https://www.ietf.org/rfc/rfc2616.txt).
